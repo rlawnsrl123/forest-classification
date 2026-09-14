@@ -1,0 +1,6 @@
+*.zip
+*.tif
+*.shp
+*.dbf
+*.shx
+.ipynb_checkpoints/
