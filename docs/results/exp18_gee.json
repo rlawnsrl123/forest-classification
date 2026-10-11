@@ -1,0 +1,769 @@
+{
+ "inje|new": {
+  "meta": {
+   "leafoff": {
+    "n": 118,
+    "sat": {
+     "Sentinel-2A": 43,
+     "Sentinel-2B": 59,
+     "Sentinel-2C": 16
+    }
+   },
+   "summer": {
+    "n": 83,
+    "sat": {
+     "Sentinel-2A": 40,
+     "Sentinel-2B": 34,
+     "Sentinel-2C": 9
+    }
+   },
+   "w0102": {
+    "n": 44,
+    "sat": {
+     "Sentinel-2A": 19,
+     "Sentinel-2B": 20,
+     "Sentinel-2C": 5
+    }
+   },
+   "w1112": {
+    "n": 74,
+    "sat": {
+     "Sentinel-2A": 24,
+     "Sentinel-2B": 39,
+     "Sentinel-2C": 11
+    }
+   }
+  },
+  "stats": {
+   "leafoff_major": 0.002240469138611678,
+   "leafoff_nvalid": 34.838325889861245,
+   "leafoff_snow": 0.040880152052533654,
+   "summer_major": 0,
+   "summer_nvalid": 24.75215132807297,
+   "summer_snow": 0,
+   "w0102_major": 0.05630540783645343,
+   "w0102_nvalid": 10.085273125063365,
+   "w0102_snow": 0.10106003123112521,
+   "w1112_major": 0.0007509807249579852,
+   "w1112_nvalid": 24.75305276479786,
+   "w1112_snow": 0.01972378019611811
+  }
+ },
+ "inje|old": {
+  "meta": {
+   "leafoff": {
+    "n": 117,
+    "sat": {
+     "Sentinel-2A": 57,
+     "Sentinel-2B": 60
+    }
+   },
+   "summer": {
+    "n": 58,
+    "sat": {
+     "Sentinel-2A": 25,
+     "Sentinel-2B": 33
+    }
+   },
+   "w0102": {
+    "n": 51,
+    "sat": {
+     "Sentinel-2A": 28,
+     "Sentinel-2B": 23
+    }
+   },
+   "w1112": {
+    "n": 66,
+    "sat": {
+     "Sentinel-2A": 29,
+     "Sentinel-2B": 37
+    }
+   }
+  },
+  "stats": {
+   "leafoff_major": 0.0025069070521031153,
+   "leafoff_nvalid": 35.374848304275524,
+   "leafoff_snow": 0.028194539738025815,
+   "summer_major": 0,
+   "summer_nvalid": 16.244835350940782,
+   "summer_snow": 0,
+   "w0102_major": 0.00857222409871159,
+   "w0102_nvalid": 16.435440798617314,
+   "w0102_snow": 0.02487115295412494,
+   "w1112_major": 8.835067352446884e-05,
+   "w1112_nvalid": 18.93940750565824,
+   "w1112_snow": 0.03041010793447748
+  }
+ },
+ "hongcheon|new": {
+  "meta": {
+   "leafoff": {
+    "n": 173,
+    "sat": {
+     "Sentinel-2A": 67,
+     "Sentinel-2B": 82,
+     "Sentinel-2C": 24
+    }
+   },
+   "summer": {
+    "n": 127,
+    "sat": {
+     "Sentinel-2A": 58,
+     "Sentinel-2B": 58,
+     "Sentinel-2C": 11
+    }
+   },
+   "w0102": {
+    "n": 61,
+    "sat": {
+     "Sentinel-2A": 30,
+     "Sentinel-2B": 25,
+     "Sentinel-2C": 6
+    }
+   },
+   "w1112": {
+    "n": 112,
+    "sat": {
+     "Sentinel-2A": 37,
+     "Sentinel-2B": 57,
+     "Sentinel-2C": 18
+    }
+   }
+  },
+  "stats": {
+   "leafoff_major": 0.0054026825945873965,
+   "leafoff_nvalid": 38.372294578177964,
+   "leafoff_snow": 0.05434303931193476,
+   "summer_major": 0,
+   "summer_nvalid": 27.01800764765235,
+   "summer_snow": 0,
+   "w0102_major": 0.07085645298372269,
+   "w0102_nvalid": 12.189651521148207,
+   "w0102_snow": 0.12570520028089963,
+   "w1112_major": 0.0014986682175344988,
+   "w1112_nvalid": 26.182643057029786,
+   "w1112_snow": 0.0214381582303515
+  }
+ },
+ "hongcheon|old": {
+  "meta": {
+   "leafoff": {
+    "n": 172,
+    "sat": {
+     "Sentinel-2A": 87,
+     "Sentinel-2B": 85
+    }
+   },
+   "summer": {
+    "n": 88,
+    "sat": {
+     "Sentinel-2A": 33,
+     "Sentinel-2B": 55
+    }
+   },
+   "w0102": {
+    "n": 75,
+    "sat": {
+     "Sentinel-2A": 44,
+     "Sentinel-2B": 31
+    }
+   },
+   "w1112": {
+    "n": 97,
+    "sat": {
+     "Sentinel-2A": 43,
+     "Sentinel-2B": 54
+    }
+   }
+  },
+  "stats": {
+   "leafoff_major": 0.0015763881998130183,
+   "leafoff_nvalid": 39.24948467994524,
+   "leafoff_snow": 0.02409871888504647,
+   "summer_major": 0,
+   "summer_nvalid": 18.004110595414446,
+   "summer_snow": 2.0199147418384882e-07,
+   "w0102_major": 0.007564348616020684,
+   "w0102_nvalid": 17.016330407089765,
+   "w0102_snow": 0.0210919830419614,
+   "w1112_major": 8.827027421834194e-05,
+   "w1112_nvalid": 22.233154272855504,
+   "w1112_snow": 0.025325305774839674
+  }
+ },
+ "gangneung|new": {
+  "meta": {
+   "leafoff": {
+    "n": 249,
+    "sat": {
+     "Sentinel-2A": 89,
+     "Sentinel-2B": 126,
+     "Sentinel-2C": 34
+    }
+   },
+   "summer": {
+    "n": 180,
+    "sat": {
+     "Sentinel-2A": 80,
+     "Sentinel-2B": 76,
+     "Sentinel-2C": 24
+    }
+   },
+   "w0102": {
+    "n": 92,
+    "sat": {
+     "Sentinel-2A": 37,
+     "Sentinel-2B": 44,
+     "Sentinel-2C": 11
+    }
+   },
+   "w1112": {
+    "n": 157,
+    "sat": {
+     "Sentinel-2A": 52,
+     "Sentinel-2B": 82,
+     "Sentinel-2C": 23
+    }
+   }
+  },
+  "stats": {
+   "leafoff_major": 0.0017731012561337614,
+   "leafoff_nvalid": 48.35754643726618,
+   "leafoff_snow": 0.10117884815747652,
+   "summer_major": 0,
+   "summer_nvalid": 25.853540314807752,
+   "summer_snow": 0,
+   "w0102_major": 0.13063738284395204,
+   "w0102_nvalid": 17.022327760121655,
+   "w0102_snow": 0.25700658856643704,
+   "w1112_major": 4.80949707812051e-05,
+   "w1112_nvalid": 31.33521867714441,
+   "w1112_snow": 0.020549864883042442
+  }
+ },
+ "gangneung|old": {
+  "meta": {
+   "leafoff": {
+    "n": 230,
+    "sat": {
+     "Sentinel-2A": 111,
+     "Sentinel-2B": 119
+    }
+   },
+   "summer": {
+    "n": 119,
+    "sat": {
+     "Sentinel-2A": 53,
+     "Sentinel-2B": 66
+    }
+   },
+   "w0102": {
+    "n": 107,
+    "sat": {
+     "Sentinel-2A": 56,
+     "Sentinel-2B": 51
+    }
+   },
+   "w1112": {
+    "n": 123,
+    "sat": {
+     "Sentinel-2A": 55,
+     "Sentinel-2B": 68
+    }
+   }
+  },
+  "stats": {
+   "leafoff_major": 0.0006412662770827347,
+   "leafoff_nvalid": 43.07519733555134,
+   "leafoff_snow": 0.0479115065894246,
+   "summer_major": 0,
+   "summer_nvalid": 16.57922125000529,
+   "summer_snow": 0,
+   "w0102_major": 0.019529575860826133,
+   "w0102_nvalid": 17.20987758792595,
+   "w0102_snow": 0.06459288417929882,
+   "w1112_major": 4.80949707812051e-05,
+   "w1112_nvalid": 25.865319747625357,
+   "w1112_snow": 0.03783445331338748
+  }
+ },
+ "pyeongchang|new": {
+  "meta": {
+   "leafoff": {
+    "n": 55,
+    "sat": {
+     "Sentinel-2A": 20,
+     "Sentinel-2B": 28,
+     "Sentinel-2C": 7
+    }
+   },
+   "summer": {
+    "n": 41,
+    "sat": {
+     "Sentinel-2A": 21,
+     "Sentinel-2B": 16,
+     "Sentinel-2C": 4
+    }
+   },
+   "w0102": {
+    "n": 21,
+    "sat": {
+     "Sentinel-2A": 9,
+     "Sentinel-2B": 10,
+     "Sentinel-2C": 2
+    }
+   },
+   "w1112": {
+    "n": 34,
+    "sat": {
+     "Sentinel-2A": 11,
+     "Sentinel-2B": 18,
+     "Sentinel-2C": 5
+    }
+   }
+  },
+  "stats": {
+   "leafoff_major": 0.01148253010098147,
+   "leafoff_nvalid": 44.318216790387396,
+   "leafoff_snow": 0.0926395255780024,
+   "summer_major": 0,
+   "summer_nvalid": 28.049880314521797,
+   "summer_snow": 0,
+   "w0102_major": 0.12679709605047537,
+   "w0102_nvalid": 16.235508792410094,
+   "w0102_snow": 0.1998567287501474,
+   "w1112_major": 0.0012000005276734792,
+   "w1112_nvalid": 28.08270799797738,
+   "w1112_snow": 0.03517194304611805
+  }
+ },
+ "pyeongchang|old": {
+  "meta": {
+   "leafoff": {
+    "n": 55,
+    "sat": {
+     "Sentinel-2A": 28,
+     "Sentinel-2B": 27
+    }
+   },
+   "summer": {
+    "n": 24,
+    "sat": {
+     "Sentinel-2A": 11,
+     "Sentinel-2B": 13
+    }
+   },
+   "w0102": {
+    "n": 23,
+    "sat": {
+     "Sentinel-2A": 13,
+     "Sentinel-2B": 10
+    }
+   },
+   "w1112": {
+    "n": 32,
+    "sat": {
+     "Sentinel-2A": 15,
+     "Sentinel-2B": 17
+    }
+   }
+  },
+  "stats": {
+   "leafoff_major": 0.00327335140344402,
+   "leafoff_nvalid": 39.465479550166386,
+   "leafoff_snow": 0.032428810061099385,
+   "summer_major": 0,
+   "summer_nvalid": 18.32808849571351,
+   "summer_snow": 0,
+   "w0102_major": 0.01804800590669574,
+   "w0102_nvalid": 15.300198618327574,
+   "w0102_snow": 0.034241697622856546,
+   "w1112_major": 0.0001423196262366965,
+   "w1112_nvalid": 24.165280931838886,
+   "w1112_snow": 0.03077454148413317
+  }
+ },
+ "bonghwa|new": {
+  "meta": {
+   "leafoff": {
+    "n": 185,
+    "sat": {
+     "Sentinel-2A": 66,
+     "Sentinel-2B": 94,
+     "Sentinel-2C": 25
+    }
+   },
+   "summer": {
+    "n": 137,
+    "sat": {
+     "Sentinel-2A": 63,
+     "Sentinel-2B": 49,
+     "Sentinel-2C": 25
+    }
+   },
+   "w0102": {
+    "n": 76,
+    "sat": {
+     "Sentinel-2A": 30,
+     "Sentinel-2B": 37,
+     "Sentinel-2C": 9
+    }
+   },
+   "w1112": {
+    "n": 109,
+    "sat": {
+     "Sentinel-2A": 36,
+     "Sentinel-2B": 57,
+     "Sentinel-2C": 16
+    }
+   }
+  },
+  "stats": {
+   "leafoff_major": 0.00024467776681738623,
+   "leafoff_nvalid": 51.48212492181695,
+   "leafoff_snow": 0.030890909921180456,
+   "summer_major": 0,
+   "summer_nvalid": 32.047379354790394,
+   "summer_snow": 0,
+   "w0102_major": 0.0039799957214973975,
+   "w0102_nvalid": 21.737063946438393,
+   "w0102_snow": 0.05646852551287207,
+   "w1112_major": 2.4467776681738626e-05,
+   "w1112_nvalid": 29.745060975378543,
+   "w1112_snow": 0.011115538404944777
+  }
+ },
+ "bonghwa|old": {
+  "meta": {
+   "leafoff": {
+    "n": 181,
+    "sat": {
+     "Sentinel-2A": 95,
+     "Sentinel-2B": 86
+    }
+   },
+   "summer": {
+    "n": 86,
+    "sat": {
+     "Sentinel-2A": 43,
+     "Sentinel-2B": 43
+    }
+   },
+   "w0102": {
+    "n": 82,
+    "sat": {
+     "Sentinel-2A": 47,
+     "Sentinel-2B": 35
+    }
+   },
+   "w1112": {
+    "n": 99,
+    "sat": {
+     "Sentinel-2A": 48,
+     "Sentinel-2B": 51
+    }
+   }
+  },
+  "stats": {
+   "leafoff_major": 0,
+   "leafoff_nvalid": 46.36379779426337,
+   "leafoff_snow": 0.007738473719555159,
+   "summer_major": 0,
+   "summer_nvalid": 20.015770057783758,
+   "summer_snow": 0,
+   "w0102_major": 0.0014986273337401362,
+   "w0102_nvalid": 21.51060608553903,
+   "w0102_snow": 0.010397986712524536,
+   "w1112_major": 0,
+   "w1112_nvalid": 24.85319170872437,
+   "w1112_snow": 0.0055957946135136785
+  }
+ },
+ "geumsan|new": {
+  "meta": {
+   "leafoff": {
+    "n": 62,
+    "sat": {
+     "Sentinel-2A": 28,
+     "Sentinel-2B": 25,
+     "Sentinel-2C": 9
+    }
+   },
+   "summer": {
+    "n": 49,
+    "sat": {
+     "Sentinel-2A": 17,
+     "Sentinel-2B": 26,
+     "Sentinel-2C": 6
+    }
+   },
+   "w0102": {
+    "n": 20,
+    "sat": {
+     "Sentinel-2A": 13,
+     "Sentinel-2B": 7
+    }
+   },
+   "w1112": {
+    "n": 42,
+    "sat": {
+     "Sentinel-2A": 15,
+     "Sentinel-2B": 18,
+     "Sentinel-2C": 9
+    }
+   }
+  },
+  "stats": {
+   "leafoff_major": 0,
+   "leafoff_nvalid": 29.422605979237268,
+   "leafoff_snow": 0.003185215462397328,
+   "summer_major": 0,
+   "summer_nvalid": 19.76612384093591,
+   "summer_snow": 0,
+   "w0102_major": 0,
+   "w0102_nvalid": 8.58626043206964,
+   "w0102_snow": 0.005813667045706941,
+   "w1112_major": 0,
+   "w1112_nvalid": 20.83634554716761,
+   "w1112_snow": 0.002036907005746752
+  }
+ },
+ "geumsan|old": {
+  "meta": {
+   "leafoff": {
+    "n": 59,
+    "sat": {
+     "Sentinel-2A": 26,
+     "Sentinel-2B": 33
+    }
+   },
+   "summer": {
+    "n": 35,
+    "sat": {
+     "Sentinel-2A": 11,
+     "Sentinel-2B": 24
+    }
+   },
+   "w0102": {
+    "n": 29,
+    "sat": {
+     "Sentinel-2A": 16,
+     "Sentinel-2B": 13
+    }
+   },
+   "w1112": {
+    "n": 30,
+    "sat": {
+     "Sentinel-2A": 10,
+     "Sentinel-2B": 20
+    }
+   }
+  },
+  "stats": {
+   "leafoff_major": 0,
+   "leafoff_nvalid": 27.39947327101488,
+   "leafoff_snow": 0.006899211425680489,
+   "summer_major": 0,
+   "summer_nvalid": 16.464742985225026,
+   "summer_snow": 0,
+   "w0102_major": 0,
+   "w0102_nvalid": 14.213911636087284,
+   "w0102_snow": 0.0016018017227299724,
+   "w1112_major": 2.7897622072336098e-05,
+   "w1112_nvalid": 13.185561634927598,
+   "w1112_snow": 0.012229275361293005
+  }
+ },
+ "geochang|new": {
+  "meta": {
+   "leafoff": {
+    "n": 125,
+    "sat": {
+     "Sentinel-2A": 48,
+     "Sentinel-2B": 58,
+     "Sentinel-2C": 19
+    }
+   },
+   "summer": {
+    "n": 100,
+    "sat": {
+     "Sentinel-2A": 42,
+     "Sentinel-2B": 39,
+     "Sentinel-2C": 19
+    }
+   },
+   "w0102": {
+    "n": 52,
+    "sat": {
+     "Sentinel-2A": 23,
+     "Sentinel-2B": 24,
+     "Sentinel-2C": 5
+    }
+   },
+   "w1112": {
+    "n": 73,
+    "sat": {
+     "Sentinel-2A": 25,
+     "Sentinel-2B": 34,
+     "Sentinel-2C": 14
+    }
+   }
+  },
+  "stats": {
+   "leafoff_major": 0.000646088027865979,
+   "leafoff_nvalid": 58.2333467710886,
+   "leafoff_snow": 0.034966528535543176,
+   "summer_major": 0,
+   "summer_nvalid": 41.028219569146295,
+   "summer_snow": 0,
+   "w0102_major": 0.0310028830779405,
+   "w0102_nvalid": 23.983001673679993,
+   "w0102_snow": 0.08379010337605493,
+   "w1112_major": 2.8876075209153388e-05,
+   "w1112_nvalid": 34.25034509740866,
+   "w1112_snow": 0.0035414874681054297
+  }
+ },
+ "geochang|old": {
+  "meta": {
+   "leafoff": {
+    "n": 120,
+    "sat": {
+     "Sentinel-2A": 59,
+     "Sentinel-2B": 61
+    }
+   },
+   "summer": {
+    "n": 74,
+    "sat": {
+     "Sentinel-2A": 31,
+     "Sentinel-2B": 43
+    }
+   },
+   "w0102": {
+    "n": 54,
+    "sat": {
+     "Sentinel-2A": 33,
+     "Sentinel-2B": 21
+    }
+   },
+   "w1112": {
+    "n": 66,
+    "sat": {
+     "Sentinel-2A": 26,
+     "Sentinel-2B": 40
+    }
+   }
+  },
+  "stats": {
+   "leafoff_major": 0.0005305837270293656,
+   "leafoff_nvalid": 53.13124861281599,
+   "leafoff_snow": 0.010743385948244462,
+   "summer_major": 0,
+   "summer_nvalid": 29.87838778643937,
+   "summer_snow": 0,
+   "w0102_major": 0.0012308002409736794,
+   "w0102_nvalid": 24.482925633348618,
+   "w0102_snow": 0.007643884170601732,
+   "w1112_major": 1.4438037604576697e-05,
+   "w1112_nvalid": 28.64832297946746,
+   "w1112_snow": 0.0132584363716148
+  }
+ },
+ "suncheon|new": {
+  "meta": {
+   "leafoff": {
+    "n": 125,
+    "sat": {
+     "Sentinel-2A": 47,
+     "Sentinel-2B": 61,
+     "Sentinel-2C": 17
+    }
+   },
+   "summer": {
+    "n": 100,
+    "sat": {
+     "Sentinel-2A": 37,
+     "Sentinel-2B": 44,
+     "Sentinel-2C": 19
+    }
+   },
+   "w0102": {
+    "n": 54,
+    "sat": {
+     "Sentinel-2A": 23,
+     "Sentinel-2B": 26,
+     "Sentinel-2C": 5
+    }
+   },
+   "w1112": {
+    "n": 71,
+    "sat": {
+     "Sentinel-2A": 24,
+     "Sentinel-2B": 35,
+     "Sentinel-2C": 12
+    }
+   }
+  },
+  "stats": {
+   "leafoff_major": 0,
+   "leafoff_nvalid": 38.69603304665704,
+   "leafoff_snow": 0.0009797047490541502,
+   "summer_major": 0,
+   "summer_nvalid": 26.357309291727415,
+   "summer_snow": 0,
+   "w0102_major": 0,
+   "w0102_nvalid": 14.563348252110037,
+   "w0102_snow": 0.0027125484272665836,
+   "w1112_major": 0,
+   "w1112_nvalid": 24.132684794546943,
+   "w1112_snow": 2.832754388145118e-05
+  }
+ },
+ "suncheon|old": {
+  "meta": {
+   "leafoff": {
+    "n": 120,
+    "sat": {
+     "Sentinel-2A": 56,
+     "Sentinel-2B": 64
+    }
+   },
+   "summer": {
+    "n": 66,
+    "sat": {
+     "Sentinel-2A": 27,
+     "Sentinel-2B": 39
+    }
+   },
+   "w0102": {
+    "n": 58,
+    "sat": {
+     "Sentinel-2A": 31,
+     "Sentinel-2B": 27
+    }
+   },
+   "w1112": {
+    "n": 62,
+    "sat": {
+     "Sentinel-2A": 25,
+     "Sentinel-2B": 37
+    }
+   }
+  },
+  "stats": {
+   "leafoff_major": 0,
+   "leafoff_nvalid": 36.16662598496288,
+   "leafoff_snow": 0.009271441550061382,
+   "summer_major": 0,
+   "summer_nvalid": 17.13765677864213,
+   "summer_snow": 0,
+   "w0102_major": 0,
+   "w0102_nvalid": 17.69881100281016,
+   "w0102_snow": 0.0014487117672651933,
+   "w1112_major": 0,
+   "w1112_nvalid": 18.46781498215263,
+   "w1112_snow": 0.016775481727114933
+  }
+ }
+}

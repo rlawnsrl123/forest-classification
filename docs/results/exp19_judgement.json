@@ -1,0 +1,20 @@
+{
+ "agree": 8,
+ "verdict": {
+  "csp": {
+   "n_ok": 0,
+   "support": false,
+   "mean_shrink": -0.09613303332816403
+  },
+  "noS2C": {
+   "n_ok": 0,
+   "support": false,
+   "mean_shrink": -0.2783242828642192
+  },
+  "month": {
+   "n_ok": 0,
+   "support": false,
+   "mean_shrink": -1.344252351383946
+  }
+ }
+}

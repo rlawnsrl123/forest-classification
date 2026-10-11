@@ -1,0 +1,90 @@
+{
+  "inje": {
+    "submitted": "2026-10-07 07:12",
+    "scenes": {
+      "summer": 58,
+      "leafoff": 117
+    },
+    "hansen": "UMD/hansen/global_forest_change_2024_v1_12",
+    "crs": "EPSG:5179",
+    "H": 3528,
+    "W": 3519
+  },
+  "hongcheon": {
+    "submitted": "2026-10-07 07:12",
+    "scenes": {
+      "summer": 88,
+      "leafoff": 172
+    },
+    "hansen": "UMD/hansen/global_forest_change_2024_v1_12",
+    "crs": "EPSG:5179",
+    "H": 4420,
+    "W": 9309
+  },
+  "gangneung": {
+    "submitted": "2026-10-07 07:32",
+    "scenes": {
+      "summer": 119,
+      "leafoff": 230
+    },
+    "hansen": "UMD/hansen/global_forest_change_2024_v1_12",
+    "crs": "EPSG:5179",
+    "H": 3549,
+    "W": 3557
+  },
+  "pyeongchang": {
+    "submitted": "2026-10-07 07:32",
+    "scenes": {
+      "summer": 24,
+      "leafoff": 55
+    },
+    "hansen": "UMD/hansen/global_forest_change_2024_v1_12",
+    "crs": "EPSG:5179",
+    "H": 3537,
+    "W": 3552
+  },
+  "bonghwa": {
+    "submitted": "2026-10-07 08:00",
+    "scenes": {
+      "summer": 86,
+      "leafoff": 181
+    },
+    "hansen": "UMD/hansen/global_forest_change_2024_v1_12",
+    "crs": "EPSG:5179",
+    "H": 3551,
+    "W": 3595
+  },
+  "geumsan": {
+    "submitted": "2026-10-07 08:00",
+    "scenes": {
+      "summer": 35,
+      "leafoff": 59
+    },
+    "hansen": "UMD/hansen/global_forest_change_2024_v1_12",
+    "crs": "EPSG:5179",
+    "H": 3262,
+    "W": 2892
+  },
+  "geochang": {
+    "submitted": "2026-10-07 08:19",
+    "scenes": {
+      "summer": 74,
+      "leafoff": 120
+    },
+    "hansen": "UMD/hansen/global_forest_change_2024_v1_12",
+    "crs": "EPSG:5179",
+    "H": 3513,
+    "W": 3612
+  },
+  "suncheon": {
+    "submitted": "2026-10-07 08:19",
+    "scenes": {
+      "summer": 66,
+      "leafoff": 120
+    },
+    "hansen": "UMD/hansen/global_forest_change_2024_v1_12",
+    "crs": "EPSG:5179",
+    "H": 3924,
+    "W": 3758
+  }
+}
