@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="579.6pt" height="266.932pt" viewBox="0 0 579.6 266.932" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-30T14:21:59.813930</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 266.932 
+L 579.6 266.932 
+L 579.6 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 38.7 204.84 
+L 227.025 204.84 
+L 227.025 60.696 
+L 38.7 60.696 
+z
+" clip-path="url(#p1437fd5942)" style="fill: #2d6a4f; opacity: 0.85"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 227.025 204.84 
+L 289.8 204.84 
+L 289.8 60.696 
+L 227.025 60.696 
+z
+" clip-path="url(#p1437fd5942)" style="fill: #8d99ae; opacity: 0.9"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 289.8 204.84 
+L 540.9 204.84 
+L 540.9 60.696 
+L 289.8 60.696 
+z
+" clip-path="url(#p1437fd5942)" style="fill: #e09f3e; opacity: 0.85"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 38.7 204.84 
+L 540.9 204.84 
+L 540.9 60.696 
+L 38.7 60.696 
+L 38.7 204.84 
+z
+" clip-path="url(#p1437fd5942)" style="fill: none; stroke: #2b3440; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #ffffff" x="132.8625" y="140.104914" transform="rotate(-0 132.8625 140.104914)">학습</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #ffffff" x="258.4125" y="138.325871" transform="rotate(-0 258.4125 138.325871)">검증</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Malgun Gothic'; fill: #ffffff" transform="translate(395.35 127.419562)">평가</text>
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Malgun Gothic'; fill: #ffffff" transform="translate(341.159375 152.808625)">(모든 조합 공통)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="164.25" y="44.064" transform="rotate(-0 164.25 44.064)">서쪽 절반</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="415.35" y="44.064" transform="rotate(-0 415.35 44.064)">동쪽 절반</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 13px; font-family: 'Malgun Gothic'; fill: #7a8591" transform="translate(38.7 230.004031)">· 픽셀 무작위 분할 금지 — 인접 픽셀이 학습·평가에 섞이면 성능이 부풀려짐</text>
+    <text style="font-size: 13px; font-family: 'Malgun Gothic'; fill: #7a8591" transform="translate(38.7 250.308406)">· 지역 내 / 지역 간 조합이 같은 평가 영역을 쓰도록 설계 (평가셋 교락 제거)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1437fd5942">
+   <rect x="10.8" y="10.8" width="558" height="243.936"/>
+  </clipPath>
+ </defs>
+</svg>
