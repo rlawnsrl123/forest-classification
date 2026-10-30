@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="819.273437pt" height="398.775664pt" viewBox="0 0 819.273437 398.775664" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-30T14:22:00.994039</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 398.775664 
+L 819.273437 398.775664 
+L 819.273437 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 83.073438 313.373125 
+L 449.437074 313.373125 
+L 449.437074 36.173125 
+L 83.073438 36.173125 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 83.073438 313.373125 
+L 83.073438 36.173125 
+" clip-path="url(#p898331a49e)" style="fill: none; stroke: #e3e7eb; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="mbbeb2819b8" d="M 0 0 
+L 0 3.5 
+" style="stroke: #2b3440; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mbbeb2819b8" x="83.073438" y="313.373125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="83.073438" y="332.370195" transform="rotate(-0 83.073438 332.370195)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 128.868892 313.373125 
+L 128.868892 36.173125 
+" clip-path="url(#p898331a49e)" style="fill: none; stroke: #e3e7eb; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mbbeb2819b8" x="128.868892" y="313.373125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="128.868892" y="332.370195" transform="rotate(-0 128.868892 332.370195)">0.1</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 174.664347 313.373125 
+L 174.664347 36.173125 
+" clip-path="url(#p898331a49e)" style="fill: none; stroke: #e3e7eb; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mbbeb2819b8" x="174.664347" y="313.373125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="174.664347" y="332.370195" transform="rotate(-0 174.664347 332.370195)">0.2</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 220.459801 313.373125 
+L 220.459801 36.173125 
+" clip-path="url(#p898331a49e)" style="fill: none; stroke: #e3e7eb; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mbbeb2819b8" x="220.459801" y="313.373125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="220.459801" y="332.370195" transform="rotate(-0 220.459801 332.370195)">0.3</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 266.255256 313.373125 
+L 266.255256 36.173125 
+" clip-path="url(#p898331a49e)" style="fill: none; stroke: #e3e7eb; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mbbeb2819b8" x="266.255256" y="313.373125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="266.255256" y="332.370195" transform="rotate(-0 266.255256 332.370195)">0.4</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 312.05071 313.373125 
+L 312.05071 36.173125 
+" clip-path="url(#p898331a49e)" style="fill: none; stroke: #e3e7eb; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#mbbeb2819b8" x="312.05071" y="313.373125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="312.05071" y="332.370195" transform="rotate(-0 312.05071 332.370195)">0.5</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 357.846165 313.373125 
+L 357.846165 36.173125 
+" clip-path="url(#p898331a49e)" style="fill: none; stroke: #e3e7eb; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#mbbeb2819b8" x="357.846165" y="313.373125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="357.846165" y="332.370195" transform="rotate(-0 357.846165 332.370195)">0.6</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path d="M 403.641619 313.373125 
+L 403.641619 36.173125 
+" clip-path="url(#p898331a49e)" style="fill: none; stroke: #e3e7eb; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#mbbeb2819b8" x="403.641619" y="313.373125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="403.641619" y="332.370195" transform="rotate(-0 403.641619 332.370195)">0.7</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_17">
+      <path d="M 449.437074 313.373125 
+L 449.437074 36.173125 
+" clip-path="url(#p898331a49e)" style="fill: none; stroke: #e3e7eb; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#mbbeb2819b8" x="449.437074" y="313.373125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="449.437074" y="332.370195" transform="rotate(-0 449.437074 332.370195)">0.8</text>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="266.255256" y="352.352813" transform="rotate(-0 266.255256 352.352813)">낙엽기 NDVI (홍천)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_19">
+      <defs>
+       <path id="m3328e1c9f9" d="M 0 0 
+L -3.5 0 
+" style="stroke: #2b3440; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m3328e1c9f9" x="83.073438" y="283.864034" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #2b3440" x="76.073438" y="290.342159" transform="rotate(-0 76.073438 290.342159)">기타 활엽</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m3328e1c9f9" x="83.073438" y="229.31858" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #2b3440" x="76.073438" y="235.724048" transform="rotate(-0 76.073438 235.724048)">신갈나무</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m3328e1c9f9" x="83.073438" y="174.773125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #2b3440" x="76.073438" y="181.178594" transform="rotate(-0 76.073438 181.178594)">낙엽송</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m3328e1c9f9" x="83.073438" y="120.22767" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #2b3440" x="76.073438" y="126.633139" transform="rotate(-0 76.073438 126.633139)">소나무</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m3328e1c9f9" x="83.073438" y="65.682216" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #2b3440" x="76.073438" y="72.087685" transform="rotate(-0 76.073438 72.087685)">잣나무</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 83.073438 300.773125 
+L 239.235938 300.773125 
+L 239.235938 266.954943 
+L 83.073438 266.954943 
+z
+" clip-path="url(#p898331a49e)" style="fill: #e09f3e"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 83.073438 246.22767 
+L 244.731392 246.22767 
+L 244.731392 212.409489 
+L 83.073438 212.409489 
+z
+" clip-path="url(#p898331a49e)" style="fill: #e09f3e"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 83.073438 191.682216 
+L 252.058665 191.682216 
+L 252.058665 157.864034 
+L 83.073438 157.864034 
+z
+" clip-path="url(#p898331a49e)" style="fill: #c8553d"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 83.073438 137.136761 
+L 372.50071 137.136761 
+L 372.50071 103.31858 
+L 83.073438 103.31858 
+z
+" clip-path="url(#p898331a49e)" style="fill: #2d6a4f"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 83.073438 82.591307 
+L 396.772301 82.591307 
+L 396.772301 48.773125 
+L 83.073438 48.773125 
+z
+" clip-path="url(#p898331a49e)" style="fill: #2d6a4f"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 83.073438 313.373125 
+L 83.073438 36.173125 
+" style="fill: none; stroke: #5a6470; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 83.073438 313.373125 
+L 449.437074 313.373125 
+" style="fill: none; stroke: #5a6470; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 14px; font-family: 'Malgun Gothic'; text-anchor: start" x="242.899574" y="288.0613" transform="rotate(-0 242.899574 288.0613)">0.341</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 14px; font-family: 'Malgun Gothic'; text-anchor: start" x="248.395028" y="233.515845" transform="rotate(-0 248.395028 233.515845)">0.353</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 14px; font-family: 'Malgun Gothic'; text-anchor: start" x="255.722301" y="178.970391" transform="rotate(-0 255.722301 178.970391)">0.369</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 14px; font-family: 'Malgun Gothic'; text-anchor: start" x="376.164347" y="124.424936" transform="rotate(-0 376.164347 124.424936)">0.632</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 14px; font-family: 'Malgun Gothic'; text-anchor: start" x="400.435938" y="69.879482" transform="rotate(-0 400.435938 69.879482)">0.685</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 13.5px; font-family: 'Malgun Gothic'; fill: #c8553d" transform="translate(289.152983 172.044121)">← 침엽수(라벨 1)인데</text>
+    <text style="font-weight: 700; font-size: 13.5px; font-family: 'Malgun Gothic'; fill: #c8553d" transform="translate(289.152983 186.506523)">    활엽수와 구분 불가</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="266.255256" y="26.173125" transform="rotate(-0 266.255256 26.173125)">수종별 낙엽기 NDVI</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_10">
+    <path d="M 515.382528 313.373125 
+L 808.473437 313.373125 
+L 808.473437 36.173125 
+L 515.382528 36.173125 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_10">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#mbbeb2819b8" x="558.654231" y="313.373125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="558.654231" y="333.352813" transform="rotate(-0 558.654231 333.352813)">홍천</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#mbbeb2819b8" x="661.927983" y="313.373125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="661.927983" y="333.184063" transform="rotate(-0 661.927983 333.184063)">대전</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#mbbeb2819b8" x="765.201735" y="313.373125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="765.201735" y="333.184063" transform="rotate(-0 765.201735 333.184063)">순천</text>
+     </g>
+    </g>
+    <g id="text_26">
+     <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="661.927983" y="353.33543" transform="rotate(-0 661.927983 353.33543)">학습 지역  (평가: 홍천)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_6">
+     <g id="line2d_27">
+      <path d="M 515.382528 313.373125 
+L 808.473437 313.373125 
+" clip-path="url(#p87228d7083)" style="fill: none; stroke: #e3e7eb; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m3328e1c9f9" x="515.382528" y="313.373125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #2b3440" x="508.382528" y="319.37166" transform="rotate(-0 508.382528 319.37166)">0</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_29">
+      <path d="M 515.382528 262.973125 
+L 808.473437 262.973125 
+" clip-path="url(#p87228d7083)" style="fill: none; stroke: #e3e7eb; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m3328e1c9f9" x="515.382528" y="262.973125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #2b3440" x="508.382528" y="268.97166" transform="rotate(-0 508.382528 268.97166)">20</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_31">
+      <path d="M 515.382528 212.573125 
+L 808.473437 212.573125 
+" clip-path="url(#p87228d7083)" style="fill: none; stroke: #e3e7eb; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m3328e1c9f9" x="515.382528" y="212.573125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #2b3440" x="508.382528" y="218.57166" transform="rotate(-0 508.382528 218.57166)">40</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_33">
+      <path d="M 515.382528 162.173125 
+L 808.473437 162.173125 
+" clip-path="url(#p87228d7083)" style="fill: none; stroke: #e3e7eb; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#m3328e1c9f9" x="515.382528" y="162.173125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #2b3440" x="508.382528" y="168.17166" transform="rotate(-0 508.382528 168.17166)">60</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_35">
+      <path d="M 515.382528 111.773125 
+L 808.473437 111.773125 
+" clip-path="url(#p87228d7083)" style="fill: none; stroke: #e3e7eb; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#m3328e1c9f9" x="515.382528" y="111.773125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #2b3440" x="508.382528" y="117.77166" transform="rotate(-0 508.382528 117.77166)">80</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_37">
+      <path d="M 515.382528 61.373125 
+L 808.473437 61.373125 
+" clip-path="url(#p87228d7083)" style="fill: none; stroke: #e3e7eb; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#m3328e1c9f9" x="515.382528" y="61.373125" style="fill: #2b3440; stroke: #2b3440; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: end; fill: #2b3440" x="508.382528" y="67.37166" transform="rotate(-0 508.382528 67.37166)">100</text>
+     </g>
+    </g>
+    <g id="text_33">
+     <text style="font-size: 15px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="476.594442" y="174.773125" transform="rotate(-90 476.594442 174.773125)">낙엽송 오분류율</text>
+    </g>
+   </g>
+   <g id="patch_11">
+    <path d="M 528.704842 313.373125 
+L 588.603619 313.373125 
+L 588.603619 218.117125 
+L 528.704842 218.117125 
+z
+" clip-path="url(#p87228d7083)" style="fill: #3a7ca5"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 631.978595 313.373125 
+L 691.877371 313.373125 
+L 691.877371 156.881125 
+L 631.978595 156.881125 
+z
+" clip-path="url(#p87228d7083)" style="fill: #6c757d"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 735.252347 313.373125 
+L 795.151123 313.373125 
+L 795.151123 70.949125 
+L 735.252347 70.949125 
+z
+" clip-path="url(#p87228d7083)" style="fill: #c8553d"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 515.382528 313.373125 
+L 515.382528 36.173125 
+" style="fill: none; stroke: #5a6470; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 515.382528 313.373125 
+L 808.473437 313.373125 
+" style="fill: none; stroke: #5a6470; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Malgun Gothic'; text-anchor: middle" x="558.654231" y="213.077125" transform="rotate(-0 558.654231 213.077125)">37.8%</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Malgun Gothic'; text-anchor: middle" x="661.927983" y="151.841125" transform="rotate(-0 661.927983 151.841125)">62.1%</text>
+   </g>
+   <g id="text_36">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Malgun Gothic'; text-anchor: middle" x="765.201735" y="65.909125" transform="rotate(-0 765.201735 65.909125)">96.2%</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 15.5px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #2b3440" x="661.927983" y="26.173125" transform="rotate(-0 661.927983 26.173125)">학습 지역에 낙엽송이 적을수록 더 틀린다</text>
+   </g>
+  </g>
+  <g id="text_38">
+   <text style="font-size: 13px; font-family: 'Malgun Gothic'; text-anchor: middle; fill: #7a8591" x="434.073438" y="385.373125" transform="rotate(-0 434.073438 385.373125)">침엽수 중 낙엽송 비율: 홍천 33% · 대전 8.6% · 순천 0%</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p898331a49e">
+   <rect x="83.073438" y="36.173125" width="366.363636" height="277.2"/>
+  </clipPath>
+  <clipPath id="p87228d7083">
+   <rect x="515.382528" y="36.173125" width="293.090909" height="277.2"/>
+  </clipPath>
+ </defs>
+</svg>
